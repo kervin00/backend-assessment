@@ -21,8 +21,8 @@ You are part of a team tasked with building a backend for a new productivity app
 - Provide clear documentation on how to set up and use the API.
 
 ## Technology Stack
-- **Primary Language:** Use a language that is not your primary language of expertise. For example, if you are proficient in PHP, try using Ruby or Python.
-- **Framework:** Depending on the language chosen, use an appropriate framework (e.g., Ruby on Rails for Ruby, Flask or Django for Python).
+- **Primary Language:** Use a language that is not your main area of expertise. If you are proficient in PHP or Ruby, for example, try using C#.
+- **Framework:** Depending on the language chosen, use an appropriate framework (e.g., Ruby on Rails for Ruby, .NET for C#, etc).
 - **Database:** SQL (like MySQL, PostgreSQL) or NoSQL (like MongoDB).
 - **Testing:** Write basic tests to ensure your API endpoints work as expected.
 
